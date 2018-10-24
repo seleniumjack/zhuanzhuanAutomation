@@ -53,5 +53,5 @@
 				<listener class-name="com.young.appiumcombat.plugins.htmlReporter.PowerEmailableReporter" />
 	     -->
 	</listeners>
-
+<!--test-->
 </suite> 
