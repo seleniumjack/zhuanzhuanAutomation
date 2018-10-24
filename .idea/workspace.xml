@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21c19f07-7ec4-401b-bdd1-ffeef21c82ed" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="393321544">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="java" value="25" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="JAVA" value="25" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1163" />
+          <entry key="xml" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1163" />
+          <entry key="XML" value="29" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="appiumcombat" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/io/appium/java-client/4.0.0/java-client-4.0.0.jar!/io/appium/java_client/AppiumDriver.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="263" column="30" lean-forward="true" selection-start-line="261" selection-start-column="8" selection-end-line="263" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/AppiumUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10751">
+              <caret line="467" column="58" lean-forward="true" selection-start-line="467" selection-start-column="58" selection-end-line="467" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3097#3098#0" expanded="true" />
+                <element signature="e#3109#3110#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;project xmlns\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0\&quot; xmlns\:xsi\=\&quot;http\:\/\/www\.w3\.org\/2001\/XMLSchema\-instance\&quot;\n\	xsi\:schemaLocation\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0 http\:\/\/maven\.apache\.org\/xsd\/maven\-4\.0\.0\.xsd\&quot;\&gt;\n\	\&lt;modelVersion\&gt;4\.0\.0\&lt;\/modelVersion\&gt;\n\	\&lt;groupId\&gt;com\.young\&lt;\/groupId\&gt;\n\	\&lt;artifactId\&gt;appiumcombat\&lt;\/artifactId\&gt;\n\	\&lt;version\&gt;0\.0\.1\-SNAPSHOT\&lt;\/version\&gt;\n\	\&lt;name\&gt;appiumcombat\&lt;\/name\&gt;\n\	\&lt;description\&gt;APPIUM实战Android篇\&lt;\/description\&gt;\n\n\	\&lt;dependencies\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;org\.testng\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;testng\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;6\.9\.10\&lt;\/version\&gt;\n\	\	\	\&lt;scope\&gt;test\&lt;\/scope\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n    \&lt;groupId\&gt;io\.rest\-assured\&lt;\/groupId\&gt;\n    \&lt;artifactId\&gt;rest\-assured\&lt;\/artifactId\&gt;\n    \&lt;version\&gt;3\.0\.3\&lt;\/version\&gt;\n    \&lt;scope\&gt;test\&lt;\/scope\&gt;\n   \&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;commons\-configuration\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;commons\-configuration\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;1\.9\&lt;\/version\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;io\.appium\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;java\-client\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;4\.0\.0\&lt;\/version\&gt;\n\	\	\	\&lt;exclusions\&gt;\n\	\	\	\	\&lt;exclusion\&gt;\n\	\	\	\	\	\&lt;groupId\&gt;org\.seleniumhq\.selenium\&lt;\/groupId\&gt;\n\	\	\	\	\	\&lt;artifactId\&gt;selenium\-java\&lt;\/artifactId\&gt;\n\	\	\	\	\&lt;\/exclusion\&gt;\n\	\	\	\&lt;\/exclusions\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;com\.googlecode\.json\-simple\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;json\-simple\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;1\.1\&lt;\/version\&gt;\n\	\	\	\&lt;scope\&gt;test\&lt;\/scope\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;commons\-lang\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;commons\-lang\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;2\.6\&lt;\/version\&gt;\n\	\	\	\&lt;scope\&gt;test\&lt;\/scope\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;\!\-\- Includes the Sauce JUnit helper libraries \-\-\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;com\.saucelabs\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;sauce_junit\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;LATEST\&lt;\/version\&gt;\n\	\	\	\&lt;scope\&gt;test\&lt;\/scope\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;com\.google\.code\.gson\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;gson\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;2\.2\.4\&lt;\/version\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;net\.sourceforge\.jexcelapi\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;jxl\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;2\.6\.12\&lt;\/version\&gt;\n\	\	\	\&lt;scope\&gt;provided\&lt;\/scope\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;log4j\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;log4j\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;1\.2\.16\&lt;\/version\&gt;\n\	\	\	\&lt;scope\&gt;provided\&lt;\/scope\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;org\.seleniumhq\.selenium\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;selenium\-java\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;2\.53\.0\&lt;\/version\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;org\.apache\.poi\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;poi\-ooxml\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;3\.10\-FINAL\&lt;\/version\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;org\.seleniumhq\.selenium\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;selenium\-remote\-driver\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;2\.53\.0\&lt;\/version\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\	\&lt;dependency\&gt;\n\	\	\	\&lt;groupId\&gt;com\.thoughtworks\.qdox\&lt;\/groupId\&gt;\n\	\	\	\&lt;artifactId\&gt;qdox\&lt;\/artifactId\&gt;\n\	\	\	\&lt;version\&gt;1\.12\.1\&lt;\/version\&gt;\n\	\	\	\&lt;scope\&gt;compile\&lt;\/scope\&gt;\n\	\	\&lt;\/dependency\&gt;\n\	\&lt;\/dependencies\&gt;\n\n\n\	\&lt;build\&gt;\n\	\	\&lt;testSourceDirectory\&gt;src\/test\/java\&lt;\/testSourceDirectory\&gt;\n\	\	\&lt;resources\&gt;\n\	\	\	\&lt;resource\&gt;\n\	\	\	\	\&lt;directory\&gt;src\/test\/java\&lt;\/directory\&gt;\n\	\	\	\	\&lt;filtering\&gt;true\&lt;\/filtering\&gt;\n\	\	\	\&lt;\/resource\&gt;\n\	\	\&lt;\/resources\&gt;\n\n\	\	\&lt;plugins\&gt;\n\	\	\	\&lt;plugin\&gt;\n\	\	\	\	\&lt;groupId\&gt;org\.apache\.maven\.plugins\&lt;\/groupId\&gt;\n\	\	\	\	\&lt;artifactId\&gt;maven\-compiler\-plugin\&lt;\/artifactId\&gt;\n\	\	\	\	\&lt;\!\-\- 经过测试 maven\-compiler\-plugin 插件版本请使用3\.3\，否则在jenkins上无法执行测试 \-\-\&gt;\n\	\	\	\	\&lt;version\&gt;3\.3\&lt;\/version\&gt;\n\	\	\	\	\&lt;configuration\&gt;\n\	\	\	\	\	\&lt;source\&gt;1\.7\&lt;\/source\&gt;\n\	\	\	\	\	\&lt;target\&gt;1\.7\&lt;\/target\&gt;\n\	\	\	\	\&lt;\/configuration\&gt;\n\	\	\	\&lt;\/plugin\&gt;\n\	\	\	\&lt;plugin\&gt;\n\	\	\	\	\&lt;groupId\&gt;org\.apache\.maven\.plugins\&lt;\/groupId\&gt;\n\	\	\	\	\&lt;artifactId\&gt;maven\-surefire\-plugin\&lt;\/artifactId\&gt;\n\	\	\	\	\&lt;version\&gt;2\.18\.1\&lt;\/version\&gt;\n\	\	\	\	\&lt;configuration\&gt;\n\	\	\	\	\	\&lt;\!\-\- 解决用maven执行test时 日志乱码的问题\，详见\：http\:\/\/www\.cnblogs\.com\/discuss\/archive\/2010\/10\/27\/1862225\.html \-\-\&gt;\n\	\	\	\	\	\&lt;argLine\&gt;\-Dfile\.encoding\=UTF\-8\&lt;\/argLine\&gt;\n\	\	\	\	\	\&lt;\!\-\- 解决maven oom问题http\:\/\/blog\.csdn\.net\/e5945\/article\/details\/7740904 \-\-\&gt;\n\	\	\	\	\	\&lt;argLine\&gt;\-Xms512m \-Xmx1024m \-XX\:PermSize\=128m \-XX\:MaxPermSize\=128m\&lt;\/argLine\&gt;\n\	\	\	\	\	\&lt;forkCount\&gt;0\&lt;\/forkCount\&gt;\n\	\	\	\	\	\&lt;suiteXmlFiles\&gt;\n\	\	\	\	\	\	\&lt;suiteXmlFile\&gt;runAll\.xml\&lt;\/suiteXmlFile\&gt;\n\	\	\	\	\	\&lt;\/suiteXmlFiles\&gt;\n\	\	\	\	\	\&lt;\!\-\-定义maven运行测试生成的报表路径 \-\-\&gt;\n\	\	\	\	\	\&lt;reportsDirectory\&gt;\.\/result\/test\-report\&lt;\/reportsDirectory\&gt;\n\	\	\	\	\&lt;\/configuration\&gt;\n\	\	\	\&lt;\/plugin\&gt;\n\n\	\	\&lt;\/plugins\&gt;\n\	\&lt;\/build\&gt;\n\	\&lt;repositories\&gt;\n\	\	\&lt;repository\&gt;\n\	\	\	\&lt;id\&gt;saucelabs\-repository\&lt;\/id\&gt;\n\	\	\	\&lt;url\&gt;https\:\/\/repository\-saucelabs\.forge\.cloudbees\.com\/release\&lt;\/url\&gt;\n\	\	\	\&lt;releases\&gt;\n\	\	\	\	\&lt;enabled\&gt;true\&lt;\/enabled\&gt;\n\	\	\	\&lt;\/releases\&gt;\n\	\	\	\&lt;snapshots\&gt;\n\	\	\	\	\&lt;enabled\&gt;true\&lt;\/enabled\&gt;\n\	\	\	\&lt;\/snapshots\&gt;\n\	\	\&lt;\/repository\&gt;\n\	\&lt;\/repositories\&gt;\n\&lt;\/project\&gt;</find>
+      <find>WebElement recyclerElement\=appiumUtil\.findElement\(By\.id\(\&quot;com\.wuba\.zhuanzhuan\:id\/oe\&quot;\)\)\;\n\	\	\	\	 List\&lt;WebElement\&gt; list\=recyclerElement\.findElements\(By\.className\(\&quot;android\.widget\.FrameLayout\&quot;\)\)\;\n\	\	\	\	 for\(WebElement item\:list\)\{\n\	\	\	\	\	\	\	\	\	\	 \n\	\	\	\	\	 String clickable\=item\.getAttribute\(\&quot;clickable\&quot;\)\;\n\	\	\	\	\	 if\(clickable\.equals\(\&quot;false\&quot;\)\)\{\n\	\	\	\	\	 \	break\;\n\	\	\	\	\	 \}\n\	\	\	\	\	\	item\.click\(\)\;\n\	\	\	\	\	\	appiumUtil\.pause\(2\)\;\n\	\	\	\	\	\	\n\	\	\	\	\	\	if\(appiumUtil\.findElement\(By\.xpath\(\&quot;\/\/android\.widget\.TextView\[contains\(\@text\,\'聊一聊\'\)\]\&quot;\)\)\=\=null\)\n\	\	\	\	\	\	\{\n\	\	\	\	\	\	\	appiumUtil\.click\(By\.id\(\&quot;com\.wuba\.zhuanzhuan\:id\/i1\&quot;\)\)\;\n\	\	\	\	\	\	\	appiumUtil\.pause\(2\)\;\n\	\	\	\	\	\	\	break\;\n\	\	\	\	\	\	\}\n\	\	\	\	\	   \n\	\	\	\	\	\</find>
+      <find>tap</find>
+      <find>JavascriptExecutor</find>
+      <find>swipe</find>
+      <find>doSwipe</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/AppiumUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1358" />
+    <option name="y" value="-320" />
+    <option name="width" value="1364" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="appiumcombat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appiumcombat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appiumcombat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appiumcombat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appiumcombat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appiumcombat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="appiumcombat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appiumcombat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540347022070" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appiumcombat" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/zhuanzhuan.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Project/appiumcombat/zhuanzhuan.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21c19f07-7ec4-401b-bdd1-ffeef21c82ed" name="Default Changelist" comment="" />
+      <created>1540187952214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540187952214</updated>
+      <workItem from="1540187957890" duration="2667000" />
+      <workItem from="1540192416865" duration="28846000" />
+      <workItem from="1540283708148" duration="8556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 04m 48s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 11m 26s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 15m 28s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 16m 35s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 19m 26s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 21m 38s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 24m 18s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 29m 19s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.24 at 10h 06m 26s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.24 at 10h 13m 35s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40069000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-320" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5005417" side_tool="true" weight="0.2553305" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.248104" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.30769232" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.248104" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30769232" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java</url>
+          <line>187</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pages/SearchNativePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pages/SearchWebviewPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/home/HomePage_001_UiCheck_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testngForParallel.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/young/appium_combat/HTTPReqGen.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/young/appium_combat/App.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/base/BasePrepare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/appium/java-client/4.0.0/java-client-4.0.0.jar!/io/appium/java_client/android/AndroidDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/2.53.0/selenium-remote-driver-2.53.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/InitPageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1542">
+          <caret line="439" column="38" lean-forward="true" selection-start-line="439" selection-start-column="38" selection-end-line="439" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-api/2.53.0/selenium-api-2.53.0.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/seleniumhq/selenium/selenium-api/2.53.0/selenium-api-2.53.0.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/SearchNativePageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhuanzhuan.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/appium/java-client/4.0.0/java-client-4.0.0.jar!/io/appium/java_client/AppiumDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="263" column="30" lean-forward="true" selection-start-line="261" selection-start-column="8" selection-end-line="263" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="129" column="44" lean-forward="true" selection-start-line="129" selection-start-column="44" selection-end-line="129" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/AppiumUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10751">
+          <caret line="467" column="58" lean-forward="true" selection-start-line="467" selection-start-column="58" selection-end-line="467" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3097#3098#0" expanded="true" />
+            <element signature="e#3109#3110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
