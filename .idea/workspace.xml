@@ -2,131 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21c19f07-7ec4-401b-bdd1-ffeef21c82ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_saucelabs_sauce_java_common_2_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_saucelabs_sauce_junit_2_1_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_saucelabs_saucerest_1_0_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_1_12_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_appium_java_client_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_3_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_2_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_jexcelapi_jxl_2_6_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_9_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_10_FINAL.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_10_FINAL.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_10_FINAL.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20171018.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appiumcombat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/home.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/more.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/search.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid/1、启动安卓模拟器（速度稍慢，请耐心等待）.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid/2、启动Appium Grid服务.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid/3、启动Appium Server【A】.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid/4、启动Appium Server【B】.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid/nodeconfig_1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid/nodeconfig_2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid/selenium-server-standalone.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/app/android/app-fangzhenDebug.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/app/android/app-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/app/android/bing.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/app/android/taoche4.1.3_9502.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/app/android/yixin.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/app/android/zhuanzhuan.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/app/android/zhuanzhuan_market_1274.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/properties/app.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/properties/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runAll.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/base/BasePrepare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pages/InitPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pages/MorePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pages/SearchNativePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pages/SearchWebviewPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/InitPageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/MorePageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/SearchNativePageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/SearchWebviewPageHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/plugins/excelReporter/ExcelReporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/plugins/excelReporter/TestResultListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/plugins/excelReporter/utils/CreateExcelForResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/plugins/htmlReporter/PowerEmailableReporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/plugins/htmlReporter/RetryListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/plugins/htmlReporter/TestResultListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/plugins/htmlReporter/TestngRetry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/plugins/htmlReporter/utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/home/HomePage_001_UiCheck_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/more/MorePage_001_UiCheckForMorePage_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_002_Searchzhuanzhuan_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/AppiumUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/ExcelDataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/LogConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/PropertiesDataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/SelectDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngForParallel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhuanzhuan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -162,13 +39,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1163" />
+          <entry key="java" value="1164" />
           <entry key="xml" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1163" />
+          <entry key="JAVA" value="1164" />
           <entry key="XML" value="29" />
         </counts>
       </usages-collector>
@@ -183,7 +60,28 @@
         <entry file="jar://$USER_HOME$/.m2/repository/io/appium/java-client/4.0.0/java-client-4.0.0.jar!/io/appium/java_client/AppiumDriver.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="263" column="30" lean-forward="true" selection-start-line="261" selection-start-column="8" selection-end-line="263" selection-end-column="30" />
+              <caret line="263" column="30" selection-start-line="261" selection-start-column="8" selection-end-line="263" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,8 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/AppiumUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10751">
-              <caret line="467" column="58" lean-forward="true" selection-start-line="467" selection-start-column="58" selection-end-line="467" selection-end-column="58" />
+            <state relative-caret-position="186">
+              <caret line="466" column="16" selection-start-line="466" selection-start-column="16" selection-end-line="466" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3097#3098#0" expanded="true" />
@@ -206,19 +104,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            <state relative-caret-position="466">
+              <caret line="131" column="32" lean-forward="true" selection-start-line="131" selection-end-line="132" />
             </state>
           </provider>
         </entry>
@@ -286,13 +175,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="appiumcombat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="appiumcombat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -303,7 +185,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540347217562" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540368889593" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -355,9 +237,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 04m 48s.xml">
-      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.23 at 18h 11m 26s.xml">
       <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
     </history-entry>
@@ -385,12 +264,16 @@
     <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.24 at 10h 13m 35s.xml">
       <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__Project_appiumcombat_zhuanzhuan_xml - 2018.10.24 at 15h 31m 12s.xml">
+      <configuration name="D:/Project/appiumcombat/zhuanzhuan.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40665000" />
+    <option name="totallyTimeSpent" value="42039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-320" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -464,12 +347,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java</url>
           <line>187</line>
           <properties />
@@ -480,6 +357,12 @@
           <line>123</line>
           <properties />
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -587,7 +470,7 @@
     <entry file="jar://$USER_HOME$/.m2/repository/io/appium/java-client/4.0.0/java-client-4.0.0.jar!/io/appium/java_client/AppiumDriver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="263" column="30" lean-forward="true" selection-start-line="261" selection-start-column="8" selection-end-line="263" selection-end-column="30" />
+          <caret line="263" column="30" selection-start-line="261" selection-start-column="8" selection-end-line="263" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -601,10 +484,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="131" column="32" lean-forward="true" selection-start-line="131" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/utils/AppiumUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10751">
-          <caret line="467" column="58" lean-forward="true" selection-start-line="467" selection-start-column="58" selection-end-line="467" selection-end-column="58" />
+        <state relative-caret-position="186">
+          <caret line="466" column="16" selection-start-line="466" selection-start-column="16" selection-end-line="466" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3097#3098#0" expanded="true" />
@@ -615,15 +505,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/testcases/search/SearchPage_001_SearchDemo_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/young/appiumcombat/pageshelper/HomePageHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        <state relative-caret-position="330">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
